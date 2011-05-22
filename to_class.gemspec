@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
-  s.name     = 'classifyize'
+  s.name     = 'to-class'
   s.version  = '1.1'
   s.summary  = 'Get a class from a symbol or string of its name in one fell swoop.'
-  s.homepage = 'http://codyrobbins.com/software/classifyize'
+  s.homepage = 'http://codyrobbins.com/software/to-class'
   s.author   = 'Cody Robbins'
   s.email    = 'cody@codyrobbins.com'
 

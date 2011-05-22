@@ -21,5 +21,5 @@ Credits
 
 © 2011 [Cody Robbins](http://codyrobbins.com/)
 
-* [Homepage](http://codyrobbins.com/software/http-error)
+* [Homepage](http://codyrobbins.com/software/to-class)
 * [Follow me on Twitter](http://twitter.com/codyrobbins)
