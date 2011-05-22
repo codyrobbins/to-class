@@ -11,6 +11,11 @@ Examples
     :blog_post.to_class  #=> BlogPost
     'blog_post'.to_class #=> BlogPost
 
+Full documentation
+------------------
+
+http://rubydoc.info/gems/to-class
+
 Tested with
 -----------
 
