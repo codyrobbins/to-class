@@ -16,7 +16,7 @@ Examples
 Tested with
 -----------
 
-* ActiveSupport 3.0.5 — 20 May 2011.
+* ActiveSupport 3.0.5 — 20 May 2011
 
 Credits
 -------
