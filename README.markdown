@@ -13,15 +13,23 @@ Examples
     :blog_post.to_class  #=> BlogPost
     'blog_post'.to_class #=> BlogPost
 
-Tested with
------------
+Colophon
+--------
+
+### Tested with
 
 * ActiveSupport 3.0.5 — 20 May 2011
 
-Credits
--------
+### Contributing
 
-© 2011 [Cody Robbins](http://codyrobbins.com/)
+* [Source](https://github.com/codyrobbins/to-class)
+* [Bug reports](https://github.com/codyrobbins/to-class/issues)
+
+To send patches, please fork on GitHub and submit a pull request.
+
+### Credits
+
+© 2011 [Cody Robbins](http://codyrobbins.com/). See LICENSE for details.
 
 * [Homepage](http://codyrobbins.com/software/to-class)
 * [Follow me on Twitter](http://twitter.com/codyrobbins)
