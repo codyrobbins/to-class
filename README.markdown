@@ -1,7 +1,7 @@
 To Class
 ========
 
-This gem adds a `to_class` method to `ActiveSupport::Inflector`, `Symbol`, and `String` that combines the functionality of ActiveSupport’s [`camelize`](http://rubydoc.info/gems/activesupport/ActiveSupport/Inflector:camelize) and [`constantize`](http://rubydoc.info/gems/activesupport/ActiveSupport/Inflector:constantize) methods—it will convert the object in question to Camel case and then try to find a declared constant with the corresponding name. This allows you to easily get a class from its name with one simple method invokation.
+This gem adds a `to_class` method to `ActiveSupport::Inflector`, `Symbol`, and `String` that combines the functionality of ActiveSupport’s [`camelize`](http://rubydoc.info/gems/activesupport/ActiveSupport/Inflector:camelize) and [`constantize`](http://rubydoc.info/gems/activesupport/ActiveSupport/Inflector:constantize) methods—it will convert the object in question to Camel case and then try to find a declared constant with the corresponding name. This allows you to easily get a class from its name with one simple method invocation.
 
 Full documentation is at [RubyDoc.info](http://rubydoc.info/gems/to-class).
 
